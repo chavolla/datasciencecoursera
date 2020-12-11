@@ -1,3 +1,3 @@
 # datasciencecoursera
-This repository is por the course
+This repository is for the course
 ftr
